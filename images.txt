@@ -1,2 +1,2 @@
 jenkins/jenkins:lts
-gitlab/gitlab-ce:15.2.0
+gitlab/gitlab-ce:15.2.0-ce.0
