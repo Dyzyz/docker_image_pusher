@@ -1,3 +1,4 @@
 jenkins/jenkins:lts
 gitlab/gitlab-ce:15.2.0-ce.0
 python:3.9
+alpine:3.14
