@@ -3,3 +3,8 @@ gitlab/gitlab-ce:15.2.0-ce.0
 python:3.9
 alpine:3.14
 jaegertracing/jaeger-query:1.27
+kubesphere/elasticsearch-curator:v5.7.6
+jaegertracing/jaeger-es-index-cleaner:1.27
+kubesphere/nginx-ingress-controller:v1.1.0
+docker:19.03
+kubesphere/openpitrix-jobs:v3.3.1
