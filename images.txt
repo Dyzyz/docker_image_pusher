@@ -1,1 +1,1 @@
-sonarsource/sonar-scanner-cli:11
+sonarsource/sonar-scanner-cli:5.0.1
