@@ -1,1 +1,1 @@
-sonarsource/sonar-scanner-cli:5.0.1
+itop/itop:latest
