@@ -1,1 +1,1 @@
-itop/itop:latest
+vbkunin/itop:latest-base
